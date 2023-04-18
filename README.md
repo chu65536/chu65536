@@ -15,3 +15,5 @@ ___
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="32">](https://t.me/chu65536)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" width="32">](https://vk.com/chu65536)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="32">](https://codeforces.com/profile/chu65536)
+
