@@ -12,4 +12,4 @@ _____
 
 ## 📞 Socials : 
 
-<img src="https://github.com/favicon.ico" width="48">
+[<img src="https://github.com/favicon.ico" width="48">](https://t.me/chu65536)
