@@ -1,6 +1,4 @@
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### :trophy: My CoodeForces experience :
 
@@ -15,7 +13,7 @@ _____
 ## 📞 Socials : 
 
 <!--START_SECTION:links type=connect-->
-<a href="https://vk.com/id196888076"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img alt="Jag_k on VK" src="icons/vk.png" width="32px" height="32px"></picture></a>
+<a href="https://vk.com/id196888076"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img alt="Jag_k on VK" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="32px" height="32px"></picture></a>
 <a href="https://t.me/feelconstantfear"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/telegram.dark.png"><img alt="Jag_k on Telegram" src="icons/telegram.png" width="32px" height="32px"></picture></a>
 <br/>
 <!--END_SECTION:links-->
