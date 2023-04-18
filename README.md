@@ -12,4 +12,4 @@ _____
 
 ## 📞 Socials : 
 
-[![Telegram](<img src="https://github.com/favicon.ico" width="48">)](https://t.me/chu65536)
+<img src="https://github.com/favicon.ico" width="48">
