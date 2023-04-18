@@ -12,4 +12,4 @@ _____
 
 ## 📞 Socials : 
 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png =32x32)](https://t.me/chu65536)
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)](https://t.me/chu65536)
