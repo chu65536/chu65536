@@ -1,5 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chu65536&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=chu65536&show_icons=true&hide_border=true&theme=transparent" source media="(prefers-color-scheme: dark)">
   <img src="https://githubreadmestats.vercel.app/apiusername=chu65536&show_icons=true&hide_border=true&theme=buefy">
