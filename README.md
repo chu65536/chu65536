@@ -1,7 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-### :trophy: My CodeForces experience :
+## :trophy: My CodeForces experience :
 
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/light_card.svg#gh-light-mode-only)
@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/rating.svg)
 
 ## Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chu65536=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chu65536)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## :mailbox: Socials : 
