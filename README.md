@@ -29,3 +29,11 @@ ___
  </picture>
 </a>
 
+<!--CodeForces-->
+<a href="https://codeforces.com/profile/chu65536">
+ <picture>
+  <source srcset="icons/codeforces.dark.png" media="(prefers-color-scheme: dark)">
+  <img src="icons/codeforces.png" width="32px" height="32px">
+ </picture>
+</a>
+
