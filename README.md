@@ -11,7 +11,7 @@ ___
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/rating.svg)
 
 
-## :envelope: Socials : 
+## :mailbox: Socials : 
 
 <!--Telegram-->
 <a href="https://t.me/chu65536">
