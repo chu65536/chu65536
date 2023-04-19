@@ -17,7 +17,7 @@ ___
 <a href="https://t.me/chu65536">
  <picture>
   <source srcset="https://static-00.iconduck.com/assets.00/telegram-icon-1024x1024-bkzf373i.png" media="(prefers-color-scheme: dark)">
-  <img src="https://www.freepnglogos.com/uploads/telegram-png/file-telegram-font-awesome-svg-wikimedia-commons-7.png" width="32px" height="32px">
+  <img src="https://static-00.iconduck.com/assets.00/telegram-icon-512x512-06dzxbpj.png" width="32px" height="32px">
  </picture>
 </a>
 
