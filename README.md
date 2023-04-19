@@ -14,7 +14,7 @@ ___
 ## 📞 Socials : 
 
 <picture>
- <source srcset="https://www.pngfind.com/pngs/m/53-530160_join-the-conversation-telegram-logo-white-png-transparent.png" media="(prefers-color-scheme: dark)">
+ <source srcset="https://static-00.iconduck.com/assets.00/telegram-icon-1024x1024-bkzf373i.png" media="(prefers-color-scheme: dark)">
  <img src="https://www.pngfind.com/pngs/m/53-530160_join-the-conversation-telegram-logo-white-png-transparent.png" width="32px" height="32px">
 </picture>
 
