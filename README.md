@@ -11,13 +11,13 @@ ___
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/rating.svg)
 
 
-## 📞 Socials : 
+## :envelope: Socials : 
 
 <!--Telegram-->
 <a href="https://t.me/chu65536">
  <picture>
   <source srcset="icons/telegram.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="icons/telegram.png" width="32px" height="32px" hspace="10px">
+  <img src="icons/telegram.png" width="32px" height="32px" hspace="5px">
  </picture>
 </a>
 
@@ -25,7 +25,7 @@ ___
 <a href="https://vk.com/chu65536">
  <picture>
   <source srcset="icons/vk.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="icons/vk.png" width="32px" height="32px" hspace="10px">
+  <img src="icons/vk.png" width="32px" height="32px" hspace="5px">
  </picture>
 </a>
 
@@ -33,7 +33,7 @@ ___
 <a href="https://codeforces.com/profile/chu65536">
  <picture>
   <source srcset="icons/codeforces.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="icons/codeforces.png" width="32px" height="32px" hspace="10px">
+  <img src="icons/codeforces.png" width="32px" height="32px" hspace="5px">
  </picture>
 </a>
 
