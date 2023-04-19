@@ -17,7 +17,7 @@ ___
 <a href="https://t.me/chu65536">
  <picture>
   <source srcset="icons/telegram.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="icons/telegram.png" width="32px" height="32px">
+  <img src="icons/telegram.png" width="32px" height="32px" hspace="10px">
  </picture>
 </a>
 
@@ -25,7 +25,7 @@ ___
 <a href="https://vk.com/chu65536">
  <picture>
   <source srcset="icons/vk.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="icons/vk.png" width="32px" height="32px">
+  <img src="icons/vk.png" width="32px" height="32px" hspace="10px">
  </picture>
 </a>
 
@@ -33,7 +33,7 @@ ___
 <a href="https://codeforces.com/profile/chu65536">
  <picture>
   <source srcset="icons/codeforces.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="icons/codeforces.png" width="32px" height="32px" hspace="100px">
+  <img src="icons/codeforces.png" width="32px" height="32px" hspace="10px">
  </picture>
 </a>
 
