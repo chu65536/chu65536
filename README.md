@@ -9,6 +9,9 @@
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/chu65536/cf-stats/main/output/rating.svg)
 
+## Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chu65536=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :mailbox: Socials : 
 
