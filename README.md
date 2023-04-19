@@ -24,8 +24,8 @@ ___
 <!--VK-->
 <a href="https://vk.com/chu65536">
  <picture>
-  <source srcset="https://cdn.icon-icons.com/icons2/67/PNG/512/vk.com_13326.png" media="(prefers-color-scheme: dark)">
-  <img src="https://www.freepnglogos.com/uploads/telegram-png/file-telegram-font-awesome-svg-wikimedia-commons-7.png" width="32px" height="32px">
+  <source srcset="https://free-png.ru/wp-content/uploads/2020/04/VK_Monochrome_Logo_t.png" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.icon-icons.com/icons2/67/PNG/512/vk.com_13326.png" width="32px" height="32px">
  </picture>
 </a>
 
