@@ -24,8 +24,8 @@ ___
 <!--VK-->
 <a href="https://vk.com/chu65536">
  <picture>
-  <source srcset="vk.dark.png" media="(prefers-color-scheme: dark)">
-  <img src="vk.png" width="32px" height="32px">
+  <source srcset="icons/vk.dark.png" media="(prefers-color-scheme: dark)">
+  <img src="icons/vk.png" width="32px" height="32px">
  </picture>
 </a>
 
