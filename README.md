@@ -1,7 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <picture>
-  <srcset="https://github-readme-stats.vercel.app/api?username=chu65536&show_icons=true&hide_border=true&theme=tokyonight" source media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=chu65536&show_icons=true&hide_border=true&theme=tokyonight" source media="(prefers-color-scheme: dark)">
   <img src="https://githubreadmestats.vercel.app/apiusername=chu65536&show_icons=true&hide_border=true&theme=buefy">
 </picture>
 
