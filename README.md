@@ -15,6 +15,6 @@ ___
 
 <picture>
  <source srcset="https://spng.pngfind.com/pngs/s/53-530160_join-the-conversation-telegram-logo-white-png-transparent.png" media="(prefers-color-scheme: dark)">
- <img src="https://w7.pngwing.com/pngs/772/115/png-transparent-computer-icons-telegram-logo-angle-white-triangle-thumbnail.png" width="32px" height="32px">
+ <img src="https://www.pngfind.com/pngs/m/53-530160_join-the-conversation-telegram-logo-white-png-transparent.png" width="32px" height="32px">
 </picture>
 
