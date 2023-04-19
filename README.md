@@ -16,8 +16,8 @@ ___
 <!--Telegram-->
 <a href="https://t.me/chu65536">
  <picture>
-  <source srcset="https://static-00.iconduck.com/assets.00/telegram-icon-1024x1024-bkzf373i.png" media="(prefers-color-scheme: dark)">
-  <img src="https://static-00.iconduck.com/assets.00/telegram-icon-512x512-06dzxbpj.png" width="32px" height="32px">
+  <source srcset="icons/telegram.dark.png" media="(prefers-color-scheme: dark)">
+  <img src="icons/telegram.png" width="32px" height="32px">
  </picture>
 </a>
 
